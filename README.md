@@ -1,2 +1,2 @@
 # Accomplisher
-For later use
+From the coin box side, this application allows you to add goals including information such as the name of the goal, realization deadlines, price and current budget. On the motivational side of this app, there is an ability of adding motivational quotes that are randomly displayed on the main screen every time. Also, for each goal, you can attach materials (photos/videos) in a separate tab, which would motivate you to achieve a certain goal when viewing.
